@@ -31,8 +31,10 @@ python 03_recog.py
 ``` 
 ---
 ## If you have an opencv error
-For example, ` AttributeError: module 'cv2' has no attribute 'face' `
+- ` AttributeError: module 'cv2' has no attribute 'face' `
+
 try the code below
+
 上記のエラーに遭遇したら、以下を試してください。
 
 ```
@@ -48,8 +50,9 @@ pip install opencv-contrib-python --user
 Part of these sites is written in Japanese, please translate if you can't read.
 
 Sesame Smart Lock: https://jp.candyhouse.co/products/sesame3
+
 Usage of pysesame: https://pysesame3.readthedocs.io/en/latest/usage/
+
 How to get Sesame API: https://partners.candyhouse.co/login
+
 How to get Sesame Secret Key(JP): https://zenn.dev/key3/articles/6c1c2841d7a8a2
-
-
