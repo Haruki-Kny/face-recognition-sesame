@@ -7,6 +7,8 @@ This project focuses on Face Recognition and Sesame(Smart Lock) by Python3.
 - OpenCV
 - pysesame3
 
+![Description about this system](images/description.png "description")
+
 ## Usage
 
 ### Requirements 
